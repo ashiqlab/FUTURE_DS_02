@@ -1,9 +1,7 @@
-# FUTURE_DS_02
-Power BI dashboard analyzing Customer retention and churn trends.
 # Customer Retention & Churn Analysis Dashboard
 
 ## Dashboard Preview
-
+<img width="962" height="541" alt="image" src="https://github.com/user-attachments/assets/801cfbe9-377e-4341-8e99-58111e5aafec" />
 Visual overview of the Power BI Dashboard showing customer retention, churn behavior, revenue trends, and subscription insights.
 
 ---
