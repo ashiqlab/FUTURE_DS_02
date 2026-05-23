@@ -26,7 +26,7 @@ The analysis focuses on churn trends by tenure, payment method, plan type, and g
 
 ## Data Cleaning & Preparation
 
-Performed in Power Query (Power BI):
+Performed in Power Query (Excel):
 
 * Removed duplicate customer records.
 * Handled missing and inconsistent values.
@@ -109,7 +109,7 @@ Performed in Power Query (Power BI):
 * **Power BI** – Data visualization and dashboard creation
 * **Power Query** – Data cleaning and transformation
 * **DAX** – KPI calculations and business measures
-* **Excel / CSV** – Data source management
+* **Excel** – Data source management
 
 ---
 
