@@ -6,7 +6,7 @@ Visual overview of the Power BI Dashboard showing customer retention, churn beha
 
 ---
 
-## 🧩 Project Overview
+## Project Overview
 
 This Power BI project analyzes customer retention and churn patterns for a subscription-based business. The dashboard helps businesses understand why customers leave, identify high-risk customer segments, and improve long-term customer retention strategies.
 
@@ -14,7 +14,7 @@ The analysis focuses on churn trends by tenure, payment method, plan type, and g
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze customer churn behavior and retention patterns.
 * Identify which customer groups are most likely to churn.
@@ -24,7 +24,7 @@ The analysis focuses on churn trends by tenure, payment method, plan type, and g
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 Performed in Power Query (Power BI):
 
@@ -36,7 +36,7 @@ Performed in Power Query (Power BI):
 
 ---
 
-## 📈 Key Metrics & DAX Measures
+## Key Metrics & DAX Measures
 
 | Metric            | Formula / Description                                            |
 | ----------------- | ---------------------------------------------------------------- |
@@ -49,7 +49,7 @@ Performed in Power Query (Power BI):
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ### Customer Overview
 
@@ -84,7 +84,7 @@ Performed in Power Query (Power BI):
 
 ---
 
-## 🧠 Insights Gained
+## Insights Gained
 
 * Early customer lifecycle stages showed the highest churn rates.
 * Customers using electronic check payments had significantly higher churn.
@@ -94,7 +94,7 @@ Performed in Power Query (Power BI):
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 * Promote long-term subscription plans with discounts or benefits.
 * Improve onboarding experience during the first 90 days.
@@ -104,7 +104,7 @@ Performed in Power Query (Power BI):
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 * **Power BI** – Data visualization and dashboard creation
 * **Power Query** – Data cleaning and transformation
@@ -113,6 +113,6 @@ Performed in Power Query (Power BI):
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Ashiq Hussain**
