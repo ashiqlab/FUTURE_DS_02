@@ -116,4 +116,3 @@ Performed in Power Query (Power BI):
 ## 👨‍💻 Author
 
 **Ashiq Hussain**
-Aspiring Data Analyst | Power BI | SQL | Excel | Data Visualization
